@@ -56,7 +56,7 @@ Small jumps at window
 Allowed user input: Text entry, Clicks, Zooms, Swips and "clickdrags" for items
 
 
--- HOME - 
+-- HOME --
 
 Window swings opens
 
